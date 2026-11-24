@@ -1,0 +1,5 @@
+*.sda
+*.sdd
+*.ldb
+.DS_Store
+Thumbs.db
